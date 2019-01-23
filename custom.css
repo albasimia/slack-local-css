@@ -1,0 +1,6 @@
+.c-message--pinned,
+.c-message--sli_highlight:not(.c-message--sli_highlight_negative),
+.c-message--starred {
+    background: rgba(114, 93, 1, 0.2);
+    /* background: rgba(114, 9, 1, 0.514); */
+}
