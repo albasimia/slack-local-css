@@ -8,7 +8,7 @@ custom.css内はご自由にいじってください。
 ```
 cd /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static
 git init
-git remote add git@github.com:albasimia/slack-local-css.git
+git remote add origin git@github.com:albasimia/slack-local-css.git
 git checkout -- .
 git pull origin master
 ```
