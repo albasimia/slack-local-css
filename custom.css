@@ -4,3 +4,12 @@
     background: rgba(114, 93, 1, 0.2);
     /* background: rgba(114, 9, 1, 0.514); */
 }
+.p-threads_footer__input--legacy .p-message_input_file_button{
+    background: #222;
+}
+.p-threads_footer__input .p-message_input_field{
+    background: padding-box #545454;
+}
+.c-texty_input .ql-placeholder{
+    color: #e6e6e6;
+}
